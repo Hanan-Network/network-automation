@@ -1,0 +1,13 @@
+# Network Automation - Ping Script
+
+## Purpose
+A simple Python script to check the availability of multiple hosts (ping).
+
+## Requirements
+- Python 3 installed on your machine
+
+## Usage
+Run the script using:
+
+```bash
+python ping_check.py
